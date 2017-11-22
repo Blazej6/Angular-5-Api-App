@@ -28,7 +28,7 @@ C.
 
 At this point you should have A, B and C running
 
-App is running on localhost:4200
+App can be found at localhost:4200
 
  ## Build it yourself 
 https://medium.com/netscape/mean-app-tutorial-with-angular-4-part-1-18691663ea96
