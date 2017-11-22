@@ -23,6 +23,7 @@ To make it work:
 1. Download and install mongodb : https://www.mongodb.com/download-center#community
 2. Instruction how to setup mongodb on windows: https://stackoverflow.com/questions/20796714/how-do-i-start-mongo-db-from-windows
 
+#### D. 
 At this point you should have A, B and C running
 
 #### App can be found at 
