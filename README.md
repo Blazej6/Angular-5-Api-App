@@ -21,7 +21,7 @@ B.
 C.
 
 1. Download and install mongodb : https://www.mongodb.com/download-center#community
-2. Instruction how to setup mongodb onwindows: https://stackoverflow.com/questions/20796714/how-do-i-start-mongo-db-from-windows
+2. Instruction how to setup mongodb on windows: https://stackoverflow.com/questions/20796714/how-do-i-start-mongo-db-from-windows
 
 At this point you should have A, B and C running
 
