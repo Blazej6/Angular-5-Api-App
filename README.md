@@ -28,13 +28,13 @@ At this point you should have A, B and C running
 
 App is running on localhost:4200
 
- # Build it yourself 
+ ## Build it yourself 
 https://medium.com/netscape/mean-app-tutorial-with-angular-4-part-1-18691663ea96
 https://medium.com/@nomanbinhussein/mean-app-tutorial-with-angular-4-part-2-4250522c845
 
- # I had minor issues during the tutorial, at Point:
+ ## I had minor issues during the tutorial, at Point:
 
- ## "Add Bootstrap and Font-awesome"
+ ### "Add Bootstrap and Font-awesome"
  instead of "npm install -g bootstrap@4.0.0-beta @ng-bootstrap font-awesome"
  use "yarn add bootstrap@4.0.0-beta @ng-bootstrap/ng-bootstrap font-awesome"
  and you should be set
