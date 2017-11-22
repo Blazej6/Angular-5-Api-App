@@ -35,6 +35,7 @@ https://medium.com/@nomanbinhussein/mean-app-tutorial-with-angular-4-part-2-4250
  ## I had minor issues during the tutorial, at Point:
 
  ### "Add Bootstrap and Font-awesome"
- instead of "npm install -g bootstrap@4.0.0-beta @ng-bootstrap font-awesome"
- use "yarn add bootstrap@4.0.0-beta @ng-bootstrap/ng-bootstrap font-awesome"
- and you should be set
+instead of "npm install -g bootstrap@4.0.0-beta @ng-bootstrap font-awesome"
+ 
+use "yarn add bootstrap@4.0.0-beta @ng-bootstrap/ng-bootstrap font-awesome"
+and you should be set
