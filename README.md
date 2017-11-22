@@ -6,26 +6,26 @@ It requires mongoDB.
 
 To make it work: 
 
-A.
+#### A.
 
 1. git clone https://github.com/Blazej6/Angular-5-Api-App/edit/master/README.md
 2. yarn install
 3. ng serve
 
-B.
+#### B.
 
 1. git clone https://github.com/Blazej6/angular-api
 2. yarn install
 3. yarn start
 
-C.
+#### C.
 
 1. Download and install mongodb : https://www.mongodb.com/download-center#community
 2. Instruction how to setup mongodb on windows: https://stackoverflow.com/questions/20796714/how-do-i-start-mongo-db-from-windows
 
 At this point you should have A, B and C running
 
-App can be found at localhost:4200
+#### App can be found at localhost:4200
 
  ## Build it yourself 
 https://medium.com/netscape/mean-app-tutorial-with-angular-4-part-1-18691663ea96
